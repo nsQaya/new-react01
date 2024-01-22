@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       aasdasasdasd
       logo.6ce24c58023cc2f8fd88fe9d219db6c6
-      logo.6ce24c58023cc2f8fd88fe9d219db6c6
+      logo.6ce24c58023cc2f8fd88fe9d219db6c6 Aynı
       <img src={logo} alt=''/>
     </div>
   );
